@@ -1,16 +1,20 @@
 # LaTeX.
+.*.lb
 *.aux
+*.bcf
+*.cb
+*.cb2
+*.fls
+*.fmt
+*.fot
 *.lof
 *.log
 *.lot
-*.fls
+*.nav
 *.out
+*.run.xml
+*.snm
 *.toc
-*.fmt
-*.fot
-*.cb
-*.cb2
-.*.lb
 
 # macOS.
 .DS_Store
